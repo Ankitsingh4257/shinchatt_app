@@ -7,11 +7,11 @@ This real-time chat application utilizes the MERN stack with MongoDB for flexibl
 
 ---
 
-### Name - Abhishek Kumar Upadhyay
+### Name - Ankit Kumar Singh
 
 ### University - IIT (ISM) Dhanbad
 
-### Department - Applied Geology
+### Department - ECE
 
 ## Tech Stack Used
 
